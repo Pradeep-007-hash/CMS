@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Signup from "./Component/signup.jsx";
 import Admin from "./Component/adminpage.jsx";

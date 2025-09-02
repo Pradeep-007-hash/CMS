@@ -392,8 +392,7 @@ function signuppage(){
 
         <button type="submit" style={{background:"grey"}}>Register</button>
       </form>
-      <button  onClick={() => navigate("/Login")}style={{background:"grey"}}>Login</button>
-      
+
     </div> 
   );
 }
